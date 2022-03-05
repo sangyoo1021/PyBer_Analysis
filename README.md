@@ -7,8 +7,11 @@ For this analysis, the goal was to summarize the data frame of ride sharing data
 ##Result
 
 ![ride_sharing_summary](https://github.com/sangyoo1021/PyBer_Analysis/blob/main/analysis/ride_sharing_summary.png)
+
 From the analysis, the summary of rides, drivers, fares, average fare pr ride, and average fare per driver was calculated. 
+
 ![PyBer_fare_summary]( https://github.com/sangyoo1021/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
 From the multiple-line graph, each individual cities were analyzed by the months and by total weekly fares. From mid-February to March, there seems to be increase in the total weekly fares throughout three cities. However, urban and suburban cities tend to steady or decreased beginning of April, Rural city shows the highest peak in the beginning of month and gradually decreased throughout April. Suburban area showed strong comeback towards the end of April. 
 
 ##Summary
